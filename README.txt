@@ -1,5 +1,7 @@
 Hello,
 
+This repo contains a sample of my coding style in Stata. This code has been used for a project in Applied Microeconomics using difference in difference for a German Education policy. Data used from SOEP.
+
 Our research work is fully reproducible. 
 
 - Our data comes from SOEP v.37. Access to the SOEP dataset is restricted. 
